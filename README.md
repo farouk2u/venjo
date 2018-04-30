@@ -1,10 +1,12 @@
-![Venjo screenshot](/screenshot.jpg?raw=true "Venjo screenshot")
+
 
 Venjo is one page and multi-pages responsive HTML5 template based on latest Booststrap framework version. Venjo is built with sass and compass for easy and fast customization (sass files included).
 
 Venjo is a multipurpose template, it’s a great choice for agencies, startups, studios and small companies.
 
 ##### [ Demo ](http://demo.ouarmedia.com/venjo) - [ Download ](https://github.com/farouk2u/venjo/archive/v1.0.zip)
+
+![Venjo screenshot](/screenshot.jpg?raw=true "Venjo screenshot")
 
 
 ##Features
