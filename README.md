@@ -4,7 +4,7 @@ Venjo is one page and multi-pages responsive HTML5 template based on latest Boos
 
 Venjo is a multipurpose template, it’s a great choice for agencies, startups, studios and small companies.
 
-##### [ Demo ](http://demo.ouarmedia.com/venjo) - [ Download ](https://github.com/farouk2u/venjo/archive/v1.0.zip)
+##### [ Demo ](http://demo.ouarmedia.com/venjo/1.0/) - [ Download ](https://github.com/farouk2u/venjo/archive/v1.0.zip)
 
 ![Venjo screenshot](/screenshot.jpg?raw=true "Venjo screenshot")
 
